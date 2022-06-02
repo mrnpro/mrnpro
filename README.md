@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width=">
+</div>
+
 ### Hi there i am Natnael Fikadu 👋
  
 - 🔭 I’m currently working on Halloo service ...
