@@ -1,9 +1,8 @@
 
 
 ### Hi there i am Natnael Fikadu 👋 
-<div> <img  width="50" height="60"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="></div>
-
-                                                                               
+ 
+                                                                            
                                                                                
                                                                                
 - 🔭 I’m currently working on Halloo service ...
