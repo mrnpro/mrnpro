@@ -1,7 +1,7 @@
 
 
 ### Hi there i am Natnael Fikadu 👋 
-<div id="header"> <img  width="50" height="60"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="></div>
+<div> <img  width="50" height="60"  src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="></div>
 
                                                                                
                                                                                
