@@ -1,9 +1,9 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width=">
-</div>
+
 
 ### Hi there i am Natnael Fikadu 👋
- 
+ <div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width=">
+</div>
 - 🔭 I’m currently working on Halloo service ...
 - 🌱 I’m currently learning Node ...
 - 💬 Ask me about Flutter(dart) ...
