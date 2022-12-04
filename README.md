@@ -4,7 +4,7 @@
  
                                                                             
                                                                              
-- 💬 Ask me about Flutter(dart) ...
+- 💬 Ask me about Flutter(dart) or Node Js Backend ...
 - 📫 How to reach me: https://t.me/linat416
                                                                                
                                                                                
