@@ -1,7 +1,6 @@
  
 
-<div id="" align="center">
-  <img src="https://2.bp.blogspot.com/-CrYLg_oRtrU/Xylish5hxyI/AAAAAAAAPZg/feBSJWyKm0IzTcEroCB8bS9i4ZbMXnPpQCLcBGAsYHQ/s1600/AD%2BBLOG_Easy%2Bmodular%2Bdevelopment_v2.png" width="100"/>
+![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 </div>
 
 
