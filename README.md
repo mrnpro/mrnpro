@@ -11,8 +11,7 @@
 
 ### :man_technologist: About Me :
 I am a Flutter Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> in Ethiopia.
-- 🔭 I’m currently working on Android Development 
-- 🌱 I’m currently learning ASP DotNet
+- 🔭 I’m currently working on Mobile App Development  
 - 👯 I’m looking to collaborate on Flutter and NodeJs Backend
 - 💬 Ask me about Flutter (Dart)
   
